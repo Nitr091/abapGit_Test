@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ysh_test_abapgit.
 
-WRITE: 'läuft beim git'.
+WRITE: 'läuft beim git oder auch net'.
